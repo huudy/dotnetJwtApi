@@ -1,0 +1,14 @@
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.csprojAssemblyReference.cache
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.csproj.CoreCompileInputs.cache
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.RazorAssemblyInfo.cache
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.RazorAssemblyInfo.cs
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.AssemblyInfoInputs.cache
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.AssemblyInfo.cs
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/bin/Debug/netcoreapp2.2/myJWTAPI.deps.json
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/bin/Debug/netcoreapp2.2/myJWTAPI.runtimeconfig.json
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/bin/Debug/netcoreapp2.2/myJWTAPI.runtimeconfig.dev.json
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/bin/Debug/netcoreapp2.2/myJWTAPI.dll
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/bin/Debug/netcoreapp2.2/myJWTAPI.pdb
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.RazorTargetAssemblyInfo.cache
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.dll
+/mnt/0E2317530E231753/CODE/dotNet/myJWTAPI/obj/Debug/netcoreapp2.2/myJWTAPI.pdb
